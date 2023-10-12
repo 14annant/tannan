@@ -33,6 +33,10 @@ As I complete the development of resume worthy projects I will provide project n
 - LinkedIn: [linkedin.com/in/tom-a-751046152](https://www.linkedin.com/in/tom-a-751046152/)
 - Email: [tannan@worcester.edu](mailto:tannan@worcester.edu)
 
-Feel free to explore my repositories, connect with me on LinkedIn, or drop me an email. I'm always open to collaboration and discussions about data, technology, and business solutions.
+
+
+Feel free to explore my repositories, connect with me on LinkedIn (Link above or Python generated QR Code below), or drop me an email. I'm always open to collaboration and discussions about data, technology, and business solutions.
 
 Thank you for visiting my GitHub profile!
+
+![image](https://github.com/14annant/tannan/assets/142847537/65402faa-1207-437d-8fed-216b535674e7)
