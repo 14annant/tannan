@@ -26,7 +26,7 @@ Eric Mattes' book "Python Crash Course"
 As I complete the development of resume worthy projects I will provide project name and summary below as follows:
   
 - [Project Name 1](https://www.linkedin.com/in/tom-a-751046152/): A brief description of the project.
-- [PySpark]((https://github.com/14annant/tannan/tree/main/Python_projects/Spark)): A series of scripts written in Spark. Ranging from Spark Core Engine, Spark SQL, Spark Streaming, MLlib, and GraphX.
+- [PySpark](https://github.com/14annant/tannan/tree/main/Python_projects/Spark): A series of scripts written in Spark. Ranging from Spark Core Engine, Spark SQL, Spark Streaming, MLlib, and GraphX.
   
 
 ## Connect with Me
