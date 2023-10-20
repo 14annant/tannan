@@ -15,8 +15,8 @@ thinking and effective collaboration.
 - **Data Engineering**: Proficient in developing and implementing efficient ETL processes, automating data workflows, and ensuring data integrity.
 - **Collaboration**: Experienced in cross-functional teamwork, translating business requirements into technical solutions, and driving project success.
 - **Data Quality**: Skilled in data cleansing, validation, and monitoring, resulting in improved data accuracy and reliability.
-- **Programming**: Proficient in SQL, Python, and R, with a knack for using these tools to transform data into actionable insights.
-- **Tools**: Experienced with SAP Data Services, Microsoft SQL Server, Oracle, GitHub, and more.
+- **Programming**: Proficient in SQL, Python, Spark, and R, with a knack for using these tools to transform data into actionable insights.
+- **Tools**: Experienced with SAP Data Services, DataBricks, Microsoft SQL Server, Oracle, GitHub, and more.
 
 
 ## Featured Repositories
@@ -26,6 +26,7 @@ Eric Mattes' book "Python Crash Course"
 As I complete the development of resume worthy projects I will provide project name and summary below as follows:
   
 - [Project Name 1](https://www.linkedin.com/in/tom-a-751046152/): A brief description of the project.
+- [PySpark]((https://github.com/14annant/tannan/tree/main/Python_projects/Spark)): A series of scripts written in Spark. Ranging from Spark Core Engine, Spark SQL, Spark Streaming, MLlib, and GraphX.
   
 
 ## Connect with Me
